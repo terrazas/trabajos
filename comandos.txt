@@ -1,0 +1,16 @@
+eliminar un directorio
+#rm -R android-sdk-linux -> esto es un directorio
+#rm -r mi_directorio
+ para descomprimir a un directorio
+tar xvfz eclipse-java-juno-SR1-linux-gtk-x86_64.tar.gz -C /home/valerio/
+
+
+http://www.investigacion.frc.utn.edu.ar/labsis/Publicaciones/apunte_linux/mmad.html
+
+http://dns.bdat.net/shell/x649.html
+http://blog.desdelinux.net/con-el-terminal-comprimir-descomprimir-archivos/
+
+http://marcospcmusica.wordpress.com/2011/11/22/como-comprimir-una-carpeta-entera-en-linux-desde-consola/
+
+http://www.linuxtotal.com.mx/?cont=info_admon_004
+http://developer.android.com/sdk/index.html
